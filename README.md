@@ -129,4 +129,5 @@ Feedstock Maintainers
 =====================
 
 * [@mmcauliffe](https://github.com/mmcauliffe/)
+* [@timmahrt](https://github.com/timmahrt/)
 
