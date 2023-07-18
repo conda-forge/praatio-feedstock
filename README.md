@@ -1,11 +1,11 @@
-About praatio
-=============
+About praatio-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/praatio-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/timmahrt/praatIO
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/praatio-feedstock/blob/main/LICENSE.txt)
 
 Summary: A library for working with praat, time aligned audio transcripts, and audio files that comes with batteries included.
 
