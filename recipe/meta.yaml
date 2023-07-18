@@ -1,5 +1,5 @@
 {% set name = "praatio" %}
-{% set version = "6.0.0" %}
+{% set version = "6.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 77682d469334bb41618904effa2686ccc4fbba79bf8c8011abb93aa05459c5a1
+  sha256: ee23854697b0552db61a1a1f79334c6333ff3b26d6f3e7b1364ed799e05ccd94
 
 build:
   noarch: python
